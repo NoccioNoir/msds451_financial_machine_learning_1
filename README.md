@@ -3,9 +3,9 @@ This is the repository for assignment 1 of a graduate financial machine learning
 
 # Financial Time Series Feature Engineering
 
-**Course**: MSDS451 – Financial Machine Learning
-**Author**: Ivy Liu
-**Date**: July 2025  
+**Course**: MSDS451 – Financial Machine Learning  
+**Author**: Ivy Liu  
+**Date**: July 2025    
 
 ## Overview  
 This project builds a model to predict the next-day direction of AT&T. It demonstrates:  
