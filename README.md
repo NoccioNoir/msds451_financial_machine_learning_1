@@ -15,3 +15,6 @@ This project builds a model to predict the next-day direction of AT&T. It demons
 4. Evaluation using time-series cross-validation and ROC/AUC  
 
 ## Repository Structure  
+
+## Jump-Start Code
+The initial feature-engineering and data-fetching routines were provided by the course instructor in 451_pa1_jump_start_v001.ipynb. I refactored these into notebooks/451_assignment1 for the AT&T ticker.
